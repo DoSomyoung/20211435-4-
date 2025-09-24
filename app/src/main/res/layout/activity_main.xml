@@ -50,7 +50,7 @@
             android:id="@+id/rdoRabbit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Q(1.0)" />
+            android:text="Q(10.0)" />
     </RadioGroup>
 
     <ImageView
